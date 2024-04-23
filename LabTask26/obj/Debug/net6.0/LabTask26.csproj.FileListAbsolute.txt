@@ -1,0 +1,14 @@
+C:\Users\muvi_\Desktop\GarageGit\LabTask26\LabTask26\bin\Debug\net6.0\LabTask26.exe
+C:\Users\muvi_\Desktop\GarageGit\LabTask26\LabTask26\bin\Debug\net6.0\LabTask26.deps.json
+C:\Users\muvi_\Desktop\GarageGit\LabTask26\LabTask26\bin\Debug\net6.0\LabTask26.runtimeconfig.json
+C:\Users\muvi_\Desktop\GarageGit\LabTask26\LabTask26\bin\Debug\net6.0\LabTask26.dll
+C:\Users\muvi_\Desktop\GarageGit\LabTask26\LabTask26\bin\Debug\net6.0\LabTask26.pdb
+C:\Users\muvi_\Desktop\GarageGit\LabTask26\LabTask26\obj\Debug\net6.0\LabTask26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muvi_\Desktop\GarageGit\LabTask26\LabTask26\obj\Debug\net6.0\LabTask26.AssemblyInfoInputs.cache
+C:\Users\muvi_\Desktop\GarageGit\LabTask26\LabTask26\obj\Debug\net6.0\LabTask26.AssemblyInfo.cs
+C:\Users\muvi_\Desktop\GarageGit\LabTask26\LabTask26\obj\Debug\net6.0\LabTask26.csproj.CoreCompileInputs.cache
+C:\Users\muvi_\Desktop\GarageGit\LabTask26\LabTask26\obj\Debug\net6.0\LabTask26.dll
+C:\Users\muvi_\Desktop\GarageGit\LabTask26\LabTask26\obj\Debug\net6.0\refint\LabTask26.dll
+C:\Users\muvi_\Desktop\GarageGit\LabTask26\LabTask26\obj\Debug\net6.0\LabTask26.pdb
+C:\Users\muvi_\Desktop\GarageGit\LabTask26\LabTask26\obj\Debug\net6.0\LabTask26.genruntimeconfig.cache
+C:\Users\muvi_\Desktop\GarageGit\LabTask26\LabTask26\obj\Debug\net6.0\ref\LabTask26.dll

@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|c:\\users\\muvi_\\desktop\\garagegit\\labtask26\\labtask26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|solutionrelative:labtask26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|c:\\users\\muvi_\\desktop\\garagegit\\labtask26\\labtask26\\task2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|solutionrelative:labtask26\\task2\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|c:\\users\\muvi_\\desktop\\garagegit\\labtask26\\labtask26\\task2\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|solutionrelative:labtask26\\task2\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|c:\\users\\muvi_\\desktop\\garagegit\\labtask26\\labtask26\\task2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|solutionrelative:labtask26\\task2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|c:\\users\\muvi_\\desktop\\garagegit\\labtask26\\labtask26\\task1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|solutionrelative:labtask26\\task1\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|c:\\users\\muvi_\\desktop\\garagegit\\labtask26\\labtask26\\task1\\englishlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|solutionrelative:labtask26\\task1\\englishlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|c:\\users\\muvi_\\desktop\\garagegit\\labtask26\\labtask26\\task1\\ilanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|solutionrelative:labtask26\\task1\\ilanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|c:\\users\\muvi_\\desktop\\garagegit\\labtask26\\labtask26\\task1\\frenchlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|solutionrelative:labtask26\\task1\\frenchlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|c:\\users\\muvi_\\desktop\\garagegit\\labtask26\\labtask26\\task1\\russianlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17F1A63-1C0D-49BC-972E-D144236A446D}|LabTask26\\LabTask26.csproj|solutionrelative:labtask26\\task1\\russianlanguage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task2\\Rectangle.cs",
+              "RelativeDocumentMoniker": "LabTask26\\Task2\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task2\\Rectangle.cs",
+              "RelativeToolTip": "LabTask26\\Task2\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:18:21.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task2\\Circle.cs",
+              "RelativeDocumentMoniker": "LabTask26\\Task2\\Circle.cs",
+              "ToolTip": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task2\\Circle.cs",
+              "RelativeToolTip": "LabTask26\\Task2\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:56:55.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task2\\IShape.cs",
+              "RelativeDocumentMoniker": "LabTask26\\Task2\\IShape.cs",
+              "ToolTip": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task2\\IShape.cs",
+              "RelativeToolTip": "LabTask26\\Task2\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:56:03.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task1\\User.cs",
+              "RelativeDocumentMoniker": "LabTask26\\Task1\\User.cs",
+              "ToolTip": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task1\\User.cs",
+              "RelativeToolTip": "LabTask26\\Task1\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:47:54.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrenchLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task1\\FrenchLanguage.cs",
+              "RelativeDocumentMoniker": "LabTask26\\Task1\\FrenchLanguage.cs",
+              "ToolTip": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task1\\FrenchLanguage.cs",
+              "RelativeToolTip": "LabTask26\\Task1\\FrenchLanguage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:45:12.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnglishLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task1\\EnglishLanguage.cs",
+              "RelativeDocumentMoniker": "LabTask26\\Task1\\EnglishLanguage.cs",
+              "ToolTip": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task1\\EnglishLanguage.cs",
+              "RelativeToolTip": "LabTask26\\Task1\\EnglishLanguage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:42:59.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RussianLanguage.cs",
+              "DocumentMoniker": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task1\\RussianLanguage.cs",
+              "RelativeDocumentMoniker": "LabTask26\\Task1\\RussianLanguage.cs",
+              "ToolTip": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task1\\RussianLanguage.cs",
+              "RelativeToolTip": "LabTask26\\Task1\\RussianLanguage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:41:37.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILanguage.cs",
+              "DocumentMoniker": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task1\\ILanguage.cs",
+              "RelativeDocumentMoniker": "LabTask26\\Task1\\ILanguage.cs",
+              "ToolTip": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Task1\\ILanguage.cs",
+              "RelativeToolTip": "LabTask26\\Task1\\ILanguage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:40:52.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Program.cs",
+              "RelativeDocumentMoniker": "LabTask26\\Program.cs",
+              "ToolTip": "C:\\Users\\muvi_\\Desktop\\GarageGit\\LabTask26\\LabTask26\\Program.cs",
+              "RelativeToolTip": "LabTask26\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:40:26.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
